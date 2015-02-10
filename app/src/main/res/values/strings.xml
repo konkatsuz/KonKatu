@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KonKatu</string>
+    <string name="action_call">TEL</string>
+    <string name="action_favorite">お気に入り</string>
+    <string name="action_good">いいね</string>
+    <string name="str_billing">課金処理を行います</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
